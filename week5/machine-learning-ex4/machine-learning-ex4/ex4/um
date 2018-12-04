@@ -1,0 +1,1123 @@
+
+Initializing Neural Network Parameters ...
+
+Checking Backpropagation... 
+size(nn_params)
+   38    1
+input_layer_size
+ 3
+hidden_layer_size
+ 5
+num_labels
+ 3
+size(X)
+   5   3
+size(y)
+   5   1
+lambda
+0
+size(nn_params)
+   38    1
+input_layer_size
+ 3
+hidden_layer_size
+ 5
+num_labels
+ 3
+size(X)
+   5   3
+size(y)
+   5   1
+lambda
+0
+size(nn_params)
+   38    1
+input_layer_size
+ 3
+hidden_layer_size
+ 5
+num_labels
+ 3
+size(X)
+   5   3
+size(y)
+   5   1
+lambda
+0
+size(nn_params)
+   38    1
+input_layer_size
+ 3
+hidden_layer_size
+ 5
+num_labels
+ 3
+size(X)
+   5   3
+size(y)
+   5   1
+lambda
+0
+size(nn_params)
+   38    1
+input_layer_size
+ 3
+hidden_layer_size
+ 5
+num_labels
+ 3
+size(X)
+   5   3
+size(y)
+   5   1
+lambda
+0
+size(nn_params)
+   38    1
+input_layer_size
+ 3
+hidden_layer_size
+ 5
+num_labels
+ 3
+size(X)
+   5   3
+size(y)
+   5   1
+lambda
+0
+size(nn_params)
+   38    1
+input_layer_size
+ 3
+hidden_layer_size
+ 5
+num_labels
+ 3
+size(X)
+   5   3
+size(y)
+   5   1
+lambda
+0
+size(nn_params)
+   38    1
+input_layer_size
+ 3
+hidden_layer_size
+ 5
+num_labels
+ 3
+size(X)
+   5   3
+size(y)
+   5   1
+lambda
+0
+size(nn_params)
+   38    1
+input_layer_size
+ 3
+hidden_layer_size
+ 5
+num_labels
+ 3
+size(X)
+   5   3
+size(y)
+   5   1
+lambda
+0
+size(nn_params)
+   38    1
+input_layer_size
+ 3
+hidden_layer_size
+ 5
+num_labels
+ 3
+size(X)
+   5   3
+size(y)
+   5   1
+lambda
+0
+size(nn_params)
+   38    1
+input_layer_size
+ 3
+hidden_layer_size
+ 5
+num_labels
+ 3
+size(X)
+   5   3
+size(y)
+   5   1
+lambda
+0
+size(nn_params)
+   38    1
+input_layer_size
+ 3
+hidden_layer_size
+ 5
+num_labels
+ 3
+size(X)
+   5   3
+size(y)
+   5   1
+lambda
+0
+size(nn_params)
+   38    1
+input_layer_size
+ 3
+hidden_layer_size
+ 5
+num_labels
+ 3
+size(X)
+   5   3
+size(y)
+   5   1
+lambda
+0
+size(nn_params)
+   38    1
+input_layer_size
+ 3
+hidden_layer_size
+ 5
+num_labels
+ 3
+size(X)
+   5   3
+size(y)
+   5   1
+lambda
+0
+size(nn_params)
+   38    1
+input_layer_size
+ 3
+hidden_layer_size
+ 5
+num_labels
+ 3
+size(X)
+   5   3
+size(y)
+   5   1
+lambda
+0
+size(nn_params)
+   38    1
+input_layer_size
+ 3
+hidden_layer_size
+ 5
+num_labels
+ 3
+size(X)
+   5   3
+size(y)
+   5   1
+lambda
+0
+size(nn_params)
+   38    1
+input_layer_size
+ 3
+hidden_layer_size
+ 5
+num_labels
+ 3
+size(X)
+   5   3
+size(y)
+   5   1
+lambda
+0
+size(nn_params)
+   38    1
+input_layer_size
+ 3
+hidden_layer_size
+ 5
+num_labels
+ 3
+size(X)
+   5   3
+size(y)
+   5   1
+lambda
+0
+size(nn_params)
+   38    1
+input_layer_size
+ 3
+hidden_layer_size
+ 5
+num_labels
+ 3
+size(X)
+   5   3
+size(y)
+   5   1
+lambda
+0
+size(nn_params)
+   38    1
+input_layer_size
+ 3
+hidden_layer_size
+ 5
+num_labels
+ 3
+size(X)
+   5   3
+size(y)
+   5   1
+lambda
+0
+size(nn_params)
+   38    1
+input_layer_size
+ 3
+hidden_layer_size
+ 5
+num_labels
+ 3
+size(X)
+   5   3
+size(y)
+   5   1
+lambda
+0
+size(nn_params)
+   38    1
+input_layer_size
+ 3
+hidden_layer_size
+ 5
+num_labels
+ 3
+size(X)
+   5   3
+size(y)
+   5   1
+lambda
+0
+size(nn_params)
+   38    1
+input_layer_size
+ 3
+hidden_layer_size
+ 5
+num_labels
+ 3
+size(X)
+   5   3
+size(y)
+   5   1
+lambda
+0
+size(nn_params)
+   38    1
+input_layer_size
+ 3
+hidden_layer_size
+ 5
+num_labels
+ 3
+size(X)
+   5   3
+size(y)
+   5   1
+lambda
+0
+size(nn_params)
+   38    1
+input_layer_size
+ 3
+hidden_layer_size
+ 5
+num_labels
+ 3
+size(X)
+   5   3
+size(y)
+   5   1
+lambda
+0
+size(nn_params)
+   38    1
+input_layer_size
+ 3
+hidden_layer_size
+ 5
+num_labels
+ 3
+size(X)
+   5   3
+size(y)
+   5   1
+lambda
+0
+size(nn_params)
+   38    1
+input_layer_size
+ 3
+hidden_layer_size
+ 5
+num_labels
+ 3
+size(X)
+   5   3
+size(y)
+   5   1
+lambda
+0
+size(nn_params)
+   38    1
+input_layer_size
+ 3
+hidden_layer_size
+ 5
+num_labels
+ 3
+size(X)
+   5   3
+size(y)
+   5   1
+lambda
+0
+size(nn_params)
+   38    1
+input_layer_size
+ 3
+hidden_layer_size
+ 5
+num_labels
+ 3
+size(X)
+   5   3
+size(y)
+   5   1
+lambda
+0
+size(nn_params)
+   38    1
+input_layer_size
+ 3
+hidden_layer_size
+ 5
+num_labels
+ 3
+size(X)
+   5   3
+size(y)
+   5   1
+lambda
+0
+size(nn_params)
+   38    1
+input_layer_size
+ 3
+hidden_layer_size
+ 5
+num_labels
+ 3
+size(X)
+   5   3
+size(y)
+   5   1
+lambda
+0
+size(nn_params)
+   38    1
+input_layer_size
+ 3
+hidden_layer_size
+ 5
+num_labels
+ 3
+size(X)
+   5   3
+size(y)
+   5   1
+lambda
+0
+size(nn_params)
+   38    1
+input_layer_size
+ 3
+hidden_layer_size
+ 5
+num_labels
+ 3
+size(X)
+   5   3
+size(y)
+   5   1
+lambda
+0
+size(nn_params)
+   38    1
+input_layer_size
+ 3
+hidden_layer_size
+ 5
+num_labels
+ 3
+size(X)
+   5   3
+size(y)
+   5   1
+lambda
+0
+size(nn_params)
+   38    1
+input_layer_size
+ 3
+hidden_layer_size
+ 5
+num_labels
+ 3
+size(X)
+   5   3
+size(y)
+   5   1
+lambda
+0
+size(nn_params)
+   38    1
+input_layer_size
+ 3
+hidden_layer_size
+ 5
+num_labels
+ 3
+size(X)
+   5   3
+size(y)
+   5   1
+lambda
+0
+size(nn_params)
+   38    1
+input_layer_size
+ 3
+hidden_layer_size
+ 5
+num_labels
+ 3
+size(X)
+   5   3
+size(y)
+   5   1
+lambda
+0
+size(nn_params)
+   38    1
+input_layer_size
+ 3
+hidden_layer_size
+ 5
+num_labels
+ 3
+size(X)
+   5   3
+size(y)
+   5   1
+lambda
+0
+size(nn_params)
+   38    1
+input_layer_size
+ 3
+hidden_layer_size
+ 5
+num_labels
+ 3
+size(X)
+   5   3
+size(y)
+   5   1
+lambda
+0
+size(nn_params)
+   38    1
+input_layer_size
+ 3
+hidden_layer_size
+ 5
+num_labels
+ 3
+size(X)
+   5   3
+size(y)
+   5   1
+lambda
+0
+size(nn_params)
+   38    1
+input_layer_size
+ 3
+hidden_layer_size
+ 5
+num_labels
+ 3
+size(X)
+   5   3
+size(y)
+   5   1
+lambda
+0
+size(nn_params)
+   38    1
+input_layer_size
+ 3
+hidden_layer_size
+ 5
+num_labels
+ 3
+size(X)
+   5   3
+size(y)
+   5   1
+lambda
+0
+size(nn_params)
+   38    1
+input_layer_size
+ 3
+hidden_layer_size
+ 5
+num_labels
+ 3
+size(X)
+   5   3
+size(y)
+   5   1
+lambda
+0
+size(nn_params)
+   38    1
+input_layer_size
+ 3
+hidden_layer_size
+ 5
+num_labels
+ 3
+size(X)
+   5   3
+size(y)
+   5   1
+lambda
+0
+size(nn_params)
+   38    1
+input_layer_size
+ 3
+hidden_layer_size
+ 5
+num_labels
+ 3
+size(X)
+   5   3
+size(y)
+   5   1
+lambda
+0
+size(nn_params)
+   38    1
+input_layer_size
+ 3
+hidden_layer_size
+ 5
+num_labels
+ 3
+size(X)
+   5   3
+size(y)
+   5   1
+lambda
+0
+size(nn_params)
+   38    1
+input_layer_size
+ 3
+hidden_layer_size
+ 5
+num_labels
+ 3
+size(X)
+   5   3
+size(y)
+   5   1
+lambda
+0
+size(nn_params)
+   38    1
+input_layer_size
+ 3
+hidden_layer_size
+ 5
+num_labels
+ 3
+size(X)
+   5   3
+size(y)
+   5   1
+lambda
+0
+size(nn_params)
+   38    1
+input_layer_size
+ 3
+hidden_layer_size
+ 5
+num_labels
+ 3
+size(X)
+   5   3
+size(y)
+   5   1
+lambda
+0
+size(nn_params)
+   38    1
+input_layer_size
+ 3
+hidden_layer_size
+ 5
+num_labels
+ 3
+size(X)
+   5   3
+size(y)
+   5   1
+lambda
+0
+size(nn_params)
+   38    1
+input_layer_size
+ 3
+hidden_layer_size
+ 5
+num_labels
+ 3
+size(X)
+   5   3
+size(y)
+   5   1
+lambda
+0
+size(nn_params)
+   38    1
+input_layer_size
+ 3
+hidden_layer_size
+ 5
+num_labels
+ 3
+size(X)
+   5   3
+size(y)
+   5   1
+lambda
+0
+size(nn_params)
+   38    1
+input_layer_size
+ 3
+hidden_layer_size
+ 5
+num_labels
+ 3
+size(X)
+   5   3
+size(y)
+   5   1
+lambda
+0
+size(nn_params)
+   38    1
+input_layer_size
+ 3
+hidden_layer_size
+ 5
+num_labels
+ 3
+size(X)
+   5   3
+size(y)
+   5   1
+lambda
+0
+size(nn_params)
+   38    1
+input_layer_size
+ 3
+hidden_layer_size
+ 5
+num_labels
+ 3
+size(X)
+   5   3
+size(y)
+   5   1
+lambda
+0
+size(nn_params)
+   38    1
+input_layer_size
+ 3
+hidden_layer_size
+ 5
+num_labels
+ 3
+size(X)
+   5   3
+size(y)
+   5   1
+lambda
+0
+size(nn_params)
+   38    1
+input_layer_size
+ 3
+hidden_layer_size
+ 5
+num_labels
+ 3
+size(X)
+   5   3
+size(y)
+   5   1
+lambda
+0
+size(nn_params)
+   38    1
+input_layer_size
+ 3
+hidden_layer_size
+ 5
+num_labels
+ 3
+size(X)
+   5   3
+size(y)
+   5   1
+lambda
+0
+size(nn_params)
+   38    1
+input_layer_size
+ 3
+hidden_layer_size
+ 5
+num_labels
+ 3
+size(X)
+   5   3
+size(y)
+   5   1
+lambda
+0
+size(nn_params)
+   38    1
+input_layer_size
+ 3
+hidden_layer_size
+ 5
+num_labels
+ 3
+size(X)
+   5   3
+size(y)
+   5   1
+lambda
+0
+size(nn_params)
+   38    1
+input_layer_size
+ 3
+hidden_layer_size
+ 5
+num_labels
+ 3
+size(X)
+   5   3
+size(y)
+   5   1
+lambda
+0
+size(nn_params)
+   38    1
+input_layer_size
+ 3
+hidden_layer_size
+ 5
+num_labels
+ 3
+size(X)
+   5   3
+size(y)
+   5   1
+lambda
+0
+size(nn_params)
+   38    1
+input_layer_size
+ 3
+hidden_layer_size
+ 5
+num_labels
+ 3
+size(X)
+   5   3
+size(y)
+   5   1
+lambda
+0
+size(nn_params)
+   38    1
+input_layer_size
+ 3
+hidden_layer_size
+ 5
+num_labels
+ 3
+size(X)
+   5   3
+size(y)
+   5   1
+lambda
+0
+size(nn_params)
+   38    1
+input_layer_size
+ 3
+hidden_layer_size
+ 5
+num_labels
+ 3
+size(X)
+   5   3
+size(y)
+   5   1
+lambda
+0
+size(nn_params)
+   38    1
+input_layer_size
+ 3
+hidden_layer_size
+ 5
+num_labels
+ 3
+size(X)
+   5   3
+size(y)
+   5   1
+lambda
+0
+size(nn_params)
+   38    1
+input_layer_size
+ 3
+hidden_layer_size
+ 5
+num_labels
+ 3
+size(X)
+   5   3
+size(y)
+   5   1
+lambda
+0
+size(nn_params)
+   38    1
+input_layer_size
+ 3
+hidden_layer_size
+ 5
+num_labels
+ 3
+size(X)
+   5   3
+size(y)
+   5   1
+lambda
+0
+size(nn_params)
+   38    1
+input_layer_size
+ 3
+hidden_layer_size
+ 5
+num_labels
+ 3
+size(X)
+   5   3
+size(y)
+   5   1
+lambda
+0
+size(nn_params)
+   38    1
+input_layer_size
+ 3
+hidden_layer_size
+ 5
+num_labels
+ 3
+size(X)
+   5   3
+size(y)
+   5   1
+lambda
+0
+size(nn_params)
+   38    1
+input_layer_size
+ 3
+hidden_layer_size
+ 5
+num_labels
+ 3
+size(X)
+   5   3
+size(y)
+   5   1
+lambda
+0
+size(nn_params)
+   38    1
+input_layer_size
+ 3
+hidden_layer_size
+ 5
+num_labels
+ 3
+size(X)
+   5   3
+size(y)
+   5   1
+lambda
+0
+size(nn_params)
+   38    1
+input_layer_size
+ 3
+hidden_layer_size
+ 5
+num_labels
+ 3
+size(X)
+   5   3
+size(y)
+   5   1
+lambda
+0
+size(nn_params)
+   38    1
+input_layer_size
+ 3
+hidden_layer_size
+ 5
+num_labels
+ 3
+size(X)
+   5   3
+size(y)
+   5   1
+lambda
+0
+size(nn_params)
+   38    1
+input_layer_size
+ 3
+hidden_layer_size
+ 5
+num_labels
+ 3
+size(X)
+   5   3
+size(y)
+   5   1
+lambda
+0
+size(nn_params)
+   38    1
+input_layer_size
+ 3
+hidden_layer_size
+ 5
+num_labels
+ 3
+size(X)
+   5   3
+size(y)
+   5   1
+lambda
+0
+size(nn_params)
+   38    1
+input_layer_size
+ 3
+hidden_layer_size
+ 5
+num_labels
+ 3
+size(X)
+   5   3
+size(y)
+   5   1
+lambda
+0
+   0   0
+   0   0
+   0   0
+   0   0
+   0   0
+   0   0
+   0   0
+   0   0
+   0   0
+   0   0
+   0   0
+   0   0
+   0   0
+   0   0
+   0   0
+   0   0
+   0   0
+   0   0
+   0   0
+   0   0
+   0   0
+   0   0
+   0   0
+   0   0
+   0   0
+   0   0
+   0   0
+   0   0
+   0   0
+   0   0
+   0   0
+   0   0
+   0   0
+   0   0
+   0   0
+   0   0
+   0   0
+   0   0
+The above two columns you get should be very similar.
+(Left-Your Numerical Gradient, Right-Analytical Gradient)
+
